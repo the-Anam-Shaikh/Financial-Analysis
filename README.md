@@ -56,4 +56,4 @@ Provides insights into sales rep contributions for resource allocation.
 Supports better decision-making with clear profitability breakdowns.
 
 5.Screenshot
-The dashboard looks like
+The dashboard looks like: https://github.com/the-Anam-Shaikh/Financial-Analysis/blob/main/Snapshot_of_Dashboard.PNG
